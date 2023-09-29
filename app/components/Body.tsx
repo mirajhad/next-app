@@ -1,4 +1,4 @@
-import profile from "../assets/profile1.jpeg"
+import profile from "../assets/image.jpeg"
 import Image from "next/image";
 import React from "react";
 
