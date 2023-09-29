@@ -9,8 +9,6 @@ const Body = () => {
         <Image
           src={profile} // Path to your image in the `public` directory
           alt="Your image description"
-          width={300} // Desired width of the image
-          height={300} // Desired height of the image
           priority={true}
           className="profile"
         />
